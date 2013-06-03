@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" version="0.1">
+	<name>diumooLink</name>
+	<description>diumoo helper in browser</description>
+  <author href="http://notimportant.org/">Sean Lee</author>
+  <access origin="http://music.douban.com/" subdomains="true" />
+  <access origin="http://site.douban.com/" subdomains="true" />
+  <access origin="http://movie.douban.com/" subdomains="true" />
+  <icon src="http://diumoo.github.com/favicon.ico" />
+</widget>
